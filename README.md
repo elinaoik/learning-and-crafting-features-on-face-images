@@ -1,0 +1,2 @@
+# learning-and-crafting-features-on-face-images
+Design and classification and identification system with 3 types of facial features (HOG features, PCA features, Transfer Learning from VGGFace model), for 4 persons from the VGG Face Dataset.
